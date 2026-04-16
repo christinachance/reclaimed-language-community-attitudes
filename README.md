@@ -1,5 +1,4 @@
-# IYKYK (But AI Doesn't)
-### Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language [![Paper](https://img.shields.io/badge/paper-read-blue)](https://github.com/christinachance/reclaimed-language-community-attitudes/)
+# IYKYK (But AI Doesn't): Automated Content Moderation Does Not Capture Communities' Heterogeneous Attitudes Towards Reclaimed Language [![Paper](https://img.shields.io/badge/paper-read-blue)](https://github.com/christinachance/reclaimed-language-community-attitudes/)
 ---
 
 ## Overview
