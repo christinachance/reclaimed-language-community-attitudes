@@ -50,7 +50,7 @@ The MIT License permits reuse, modification, and distribution of the code with m
 - Code may be used for **non-commercial purposes**, provided proper attribution is given.
 - The dataset and any associated data are **not covered by the MIT License** and remain subject to the Data Storage and Access Policy outlined above.
 
-See the `LICENSE` file for full details.
+See the `LICENSE.md` file for full details.
 
 ---
 
