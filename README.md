@@ -15,13 +15,6 @@ If you are interested in accessing the data for research purposes, please reach 
 **Christina Chance**  
 📧 christinachance315@gmail.com
 
-**Rebecca Pattichis**  
-📧 rebeccapattichis2000@gmail.com
-
-**Arjun Subramonian**  
-📧 arjun.subramonian@gmail.com
-
-
 When contacting, please include:
 - Your research goal
 - Intended usage of the data
